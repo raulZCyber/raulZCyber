@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raulZCyber
+- 👋 Hello, World! I’m @raulZCyber
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on a more secure world
+- 💞️ I’m looking to build a more secure world!
 - 📫 You can find me at tw:@raulZCyber
-- 😄 Pronouns: None, don't refer to me
+- 😄 Pronouns: None, I am not to be perceived
